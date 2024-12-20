@@ -10,6 +10,6 @@ A simple and customizable timer app built with Flutter. This app allows users to
 
 
 ![Mode Page](screenshots/selectmode)
-![Easy Mode](screenshots/easymode/WhatsApp Image 2024-10-28 at 23.25.08 (3).jpeg)
+![Easy Mode](screenshots/easymode/WhatsAppImage2024-10-28at23.25.08(3).jpeg)
 ![Hard Mode](screenshots/hardmode)
 
