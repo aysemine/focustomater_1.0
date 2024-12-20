@@ -9,7 +9,9 @@ A simple and customizable timer app built with Flutter. This app allows users to
 - **Adjustable Timer**: Use a slider to set a custom duration based on the selected mode.
 
 
-![Mode Page](screenshots/selectmode)
-![Easy Mode](screenshots/easymode/WhatsAppImage2024-10-28at23.25.08(3).jpeg)
-![Hard Mode](screenshots/hardmode)
 
+![Hard Mode](https://github.com/user-attachments/assets/51b3354e-6569-477e-b699-a0443046d4aa)
+
+![Easy Mode](https://github.com/user-attachments/assets/60557870-3469-4867-b17c-7dc11141dcbe)
+
+![Select Mode](https://github.com/user-attachments/assets/8f07ae87-84be-4ce9-851d-1474a082f402)
