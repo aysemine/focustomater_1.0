@@ -1,16 +1,15 @@
-# focustomater
+# Flutter Timer App
 
-A new Flutter project.
+A simple and customizable timer app built with Flutter. This app allows users to set and manage timers in two modes: Easy and Hard. It includes functionality for pausing, resuming, and canceling timers, as well as vibrating notifications upon timer completion.
 
-## Getting Started
+## Features
+- **Timer Modes**: Choose between Easy and Hard modes with adjustable initial timer values.
+- **Timer Controls**: Start, pause, resume, or cancel the timer.
+- **Completion Alert**: Displays an alert when the timer completes.
+- **Adjustable Timer**: Use a slider to set a custom duration based on the selected mode.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Mode Page](Screenshots/SelectMode)
+![Easy Mode](Screenshots/EasyMode)
+![Hard Mode](Screenshots/HardMode)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
